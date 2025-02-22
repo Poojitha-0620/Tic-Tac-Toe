@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Tic-Tac-Toe/static/css/main.a4718483.css",
+    "main.js": "/Tic-Tac-Toe/static/js/main.392d97bc.js",
+    "static/js/453.b3c7a579.chunk.js": "/Tic-Tac-Toe/static/js/453.b3c7a579.chunk.js",
+    "static/media/crossesNew.png": "/Tic-Tac-Toe/static/media/crossesNew.27435e3a54dd73835535.png",
+    "static/media/circleNew.png": "/Tic-Tac-Toe/static/media/circleNew.606e02ceae4c217ecf43.png",
+    "index.html": "/Tic-Tac-Toe/index.html",
+    "main.a4718483.css.map": "/Tic-Tac-Toe/static/css/main.a4718483.css.map",
+    "main.392d97bc.js.map": "/Tic-Tac-Toe/static/js/main.392d97bc.js.map",
+    "453.b3c7a579.chunk.js.map": "/Tic-Tac-Toe/static/js/453.b3c7a579.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4718483.css",
+    "static/js/main.392d97bc.js"
+  ]
+}
